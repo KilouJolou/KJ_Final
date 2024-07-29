@@ -326,3 +326,355 @@ fine2.Parent = game.Players.LocalPlayer.Character["Right Arm"]
             child:Emit(1) -- Emit 20 particles
         end
     end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit2"].EmitBatch2:Clone()
+fine1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
