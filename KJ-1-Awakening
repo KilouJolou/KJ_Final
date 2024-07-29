@@ -1,0 +1,312 @@
+local player = game.Workspace.Live["Weakest Dummy"]
+repeat wait() until player.Humanoid
+local dummyhumanoid = game.Workspace.Live["Weakest Dummy"]["Humanoid"]
+
+local anim2 = Instance.new("Animation")
+anim2.AnimationId = "rbxassetid://17140902079"
+
+local playAnim2 = dummyhumanoid:LoadAnimation(anim2)
+playAnim2:Play()
+
+local soundId = 17150550559
+
+local sound = Instance.new("Sound")
+sound.Name = "audio/kj_awakening_song_only"
+sound.SoundId = "rbxassetid://" .. soundId
+sound.Volume = 0.85
+sound.Pitch = 1.0
+sound.PlaybackSpeed = 1.0
+sound.Parent = game.Workspace.Live["Weakest Dummy"]["Head"]
+sound:Play()
+
+local soundId = 17150550302
+
+local sound = Instance.new("Sound")
+sound.Name = "audio/kj_awakening_voice_only"
+sound.SoundId = "rbxassetid://" .. soundId
+sound.Volume = 1
+sound.Pitch = 1.0
+sound.PlaybackSpeed = 1.0
+sound.Parent = game.Workspace.Live["Weakest Dummy"]["Head"]
+sound:Play()
+wait(0.1)
+
+local fine3 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch3:Clone()
+fine3.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine3:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+ 
+local fine2 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch2:Clone()
+fine2.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine2:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
+
+local fine1 = game.ReplicatedStorage.Resources.KJEffects["fine...Emit"].EmitBatch1:Clone()
+fine1.Parent = game.Workspace.Live["Weakest Dummy"]["HumanoidRootPart"]
+    for _, child in ipairs(fine1:GetChildren()) do
+        if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
+            child:Emit(1) -- Emit 20 particles
+        end
+    end
